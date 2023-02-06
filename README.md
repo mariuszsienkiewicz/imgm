@@ -5,6 +5,7 @@ A project that introduced me to C++ and the basics of image manipulation.
 ![visualization](/assets/example.jpg "visualization")
 *BMP image, Sobel operator (before/after)*
 
+You can only use **BMP DIB 40 (BITMAPINFOHEADER)** or **PGM** format. 
 ## Supported operations:
 
 - resize
